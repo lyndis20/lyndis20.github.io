@@ -1,2 +1,2 @@
-# lyndis110.github.io
+# lyndis20.github.io
 blog
